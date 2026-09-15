@@ -1,106 +1,74 @@
-# RUKUNDORWIMANA FABRICE
+RUKUNDORWIMANA Fabrice
+Kigali, Rwanda | +250 795 006 278 | fabricerukundo15@gmail.com
+GitHub: github.com/fabricerukundo15-bot
 
-### Software Engineering | Cybersecurity | Networking | IoT | AI
+Profile 
+Networking and Internet Technologies (NIT) graduate from ITS Kigali with experience understanding how systems and networks connect over the internet through my studies at ITS Kigali, my internship at OTAM LTD, and various personal projects. I am  now looking to study software engineering to build stronger skills in software development, secure systems, and backend technologies.
 
-Hi, I'm Fabrice, a Networking and Internet Technologies graduate from Rwanda.
+Education
+Advanced level: Networking and Internet Technologies (NIT)
+International Technical School of Kigali (ITS Kigali) | 2023-2026
+NESA National Examination, 2026 
+Passed the advanced level national examination in NIT with an overall score of 87.09%
+Academic achievements
+•	First student of the year: Networking and Internet Technologies, 2025-2026
+•	First student of the year: Networking and Internet Technologies, 2024-2025
+•	Second student of the year: Networking and Internet Technologies, 2023-2024
+Ordinary level
+Saint Charles Lwanga Runaba Secondary School
 
-My interest in technology started with networking. During my studies, I worked with Cisco networks, routing and switching, troubleshooting, and network security. As I worked on practical projects, I became interested in the software behind these systems, which led me to explore programming, databases, IoT, cybersecurity, and artificial intelligence.
+Technical experience
+Networking and Internet Technologies Intern at OTAM LTD
+Musanze, Rwanda |August 1 –  September 3, 2025 & March 23 – April 25, 2026
+•	Installed and maintained computer networks
+•	Worked with networking equipment, cabling and wireless setups
+•	Configured and tested network devices including routers
+•	Developed different sensor-based IoT projects
+•	Tested and monitored IoT systems
+•	Developed web-based interface to monitor sensor readings
 
-I enjoy learning by building and experimenting with different technologies. This repository contains some of my projects, technical work, and certifications.
+Personal and other side experience
+•	Worked on VMware server administration with a group of my friends.
+•	Developed machine learning projects with different algorithms
 
-## About Me
+Projects
+IoT Smart Security Monitoring System
+•	Built an ESP32CAM-based security system that detects, captures, alerts and logs intrusions
+•	Created MySQL database to store event status
+•	Developed a PHP-based web interface to monitor event status
+•	GitHub: github.com/fabricerukundo15-bot/Smart-IoT-security-system
+Enterprise Network Design
+•	Built an enterprise network simulation with VLANs, VTP, Router-on-a-stick, Routing, and Route redistribution configurations
+•	Tested and troubleshooted the network to identify configuration and connectivity problems
+•	GitHub: github.com/fabricerukundo15-bot/Packet-tracer-labs
+Python Learning Master
+•	Working on development of an interactive platform for beginners to learn python through lessons, exercises, and coding challenges.
+•	Planning to add more programming languages lessons later
+•	The project is still under development as I improve my python and software engineering skills.
 
-* Networking and Internet Technologies graduate from ITS Kigali
-* Interested in Software Engineering and Cybersecurity
-* Interested in networking, servers, and computer systems
-* Learning Python and software development
-* Building IoT projects using ESP32 and Arduino
-* Exploring Artificial Intelligence and Data Science
-* Interested in creating practical technology solutions
+Technical skills
+Programming & software: Python, C, PHP, HTML & CSS, MySQL, GitHub
+Networking: TCP/IP, VLANs, Inter-VLAN Routing, Routing, VTP, ACLs, Route Redistribution, subnetting, route summarization
+Cybersecurity: IDS/IPS concepts, vulnerability assessment, Access control, Authentication and authorization, network security
+IoT and embedded systems: Arduino UNO, ESP32, sensor integration, device to device communication
+AI and Data: Generative AI fundamentals, AI concepts and applications, Machine learning
+Tools: Cisco Packet Tracer, Proteus, VMware, Jupyter Notebook, XAMPP, Visual Studio Code, PyCharm
 
-## Technical Skills
+Certifications
+•	Introduction to Cybersecurity:  Cisco Networking Academy 
+•	Generative AI Fundamentals:  AWS Training & Certification 
+•	Networking and Internet Technologies Internship Completion Certificate: OTAM LTD
 
-**Programming:** Python, C, C++, PHP, HTML, CSS, MySQL
+Leadership & Community
+•	Helped my classmates on practical projects related to Networking and Internet Technologies.
+•	Led learning groups in my class and helped them understand tough lessons
+•	Served as a drummer of modern drums and a leader in choir and worship team at our school church
 
-**Networking:** TCP/IP, Routing & Switching, VLANs, Inter-VLAN Routing, OSPF, RIP, EIGRP, Route Redistribution, VTP, ACLs
+Languages
+Kinyarwanda: Native
+English: Working Proficiency
 
-**Cybersecurity:** Network Security, IDS/IPS Concepts, Vulnerability Assessment, Ethical Hacking Fundamentals, Access Control
+References
+Available upon request
 
-**IoT:** ESP32, ESP32-CAM, Arduino, Sensors, Device-to-Server Communication
 
-**AI & Data:** NumPy, Pandas, Matplotlib, Scikit-learn, Machine Learning Fundamentals
-
-**Tools:** Git, GitHub, Cisco Packet Tracer, Wireshark, VS Code, Jupyter Notebook, XAMPP, Proteus, VMware
-
-# Projects
-
-## IoT Smart Security Monitoring System
-
-**Status: In development**
-
-An ESP32-CAM based security system designed to detect activity, capture images, record events, and send alerts.
-
-The project combines ESP32-CAM, HC-SR04, SIM800L, PHP, MySQL, and a web dashboard.
-
-Working on this project has helped me understand how hardware, software, databases, and communication work together in a complete system.
-
-## Enterprise Network Design and Security
-
-**Status: Completed**
-
-A Cisco Packet Tracer project designed to simulate an enterprise network.
-
-The project includes VLANs, inter-VLAN routing, OSPF, RIP, EIGRP, route redistribution, VTP, and ACLs.
-
-It gave me practical experience with network configuration and troubleshooting and helped me understand how different parts of a network work together.
-
-## Python Learning Master
-
-**Status: In progress — not yet on GitHub**
-
-Python Learning Master is a software project I am currently developing while improving my Python and software engineering skills.
-
-The idea is to help beginners learn Python through lessons, exercises, and coding challenges. Learners would study a topic and then practice it before moving to more advanced levels.
-
-The project is still under development and **has not yet been published on GitHub**.
-
-# Experience
-
-## Networking and IoT Intern
-
-**OTAM LTD — Musanze, Rwanda**
-
-During my industrial training, I gained practical experience in networking and IoT.
-
-I participated in network installation and maintenance, technical troubleshooting, working with networking equipment and wireless systems, IoT projects, device testing, and general IT support.
-
-The internship helped me connect what I learned in school with real technical problems and strengthened my interest in networking and IoT.
-
-# Achievements
-
-* **First Student of the Year — Networking and Internet Technologies, 2024–2025**
-* **Second Student of the Year — Networking and Internet Technologies, 2023–2024**
-
-# Certifications
-
-* **Generative AI Fundamentals** — AWS Training & Certification
-* **Introduction to Cybersecurity** — Cisco Networking Academy
-* **Networking and Internet Technologies Internship Certificate** — OTAM LTD
-
-# Why Software Engineering?
-
-Networking was my starting point in technology, but working on IoT and programming projects made me want to understand software more deeply.
-
-I became interested in how applications communicate with databases and servers, how systems are designed, and how security can be built into them.
-
-I now want to develop stronger skills in software development, backend systems, databases, algorithms, cybersecurity, cloud computing, and artificial intelligence.
-
-My long-term goal is to become a Software Engineer who can build secure and useful systems and eventually create technology products that solve real problems.
-
-## Contact
-
-📧 **Email:** [fabricerukundo15@mail.com](mailto:fabricerukundo15@mail.com)
-
-💻 **GitHub:** [github.com/fabricerukundo15-bot](https://github.com/fabricerukundo15-bot)
-
-Thanks for visiting my portfolio.
